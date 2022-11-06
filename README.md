@@ -1,4 +1,4 @@
-# TypeScript / React / Webpack / Chrome Extension Boilerplate
+# Copipette
 
 You can use this boilerplate code to start developing a Chrome extension using [TypeScript](https://www.typescriptlang.org/)/JS, [React](https://reactjs.org/) for the frontend, and [Webpack](https://webpack.js.org/) as the build system.
 
