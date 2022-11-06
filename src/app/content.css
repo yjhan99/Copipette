@@ -1,0 +1,19 @@
+.absoluterect {
+    position: absolute;
+  }
+
+.bubble2{
+	stroke: #3d8;
+	fill: none;
+	stroke-width: 1px;
+	stroke-linecap: round;
+}
+
+.newdiv {
+	border-radius: 10px;
+	box-shadow: 10px 10px 3px lightgray;
+	border-style: solid;
+	border-color: lightgray;
+	border-width: 0.5px;
+	opacity: 0.8;
+}
