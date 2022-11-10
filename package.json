@@ -1,7 +1,7 @@
 {
   "name": "tsrwpcx",
   "version": "1.0.0",
-  "description": "",
+  "description": "You can use this boilerplate code to start developing a Chrome extension using [TypeScript](https://www.typescriptlang.org/)/JS, [React](https://reactjs.org/) for the frontend, and [Webpack](https://webpack.js.org/) as the build system.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,12 +18,20 @@
     "ts-loader": "^5.3.1",
     "typescript": "^3.1.6",
     "webpack": "^4.26.1",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "@types/d3": "^7.4.0",
     "d3": "^7.6.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjhan99/Copipette.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yjhan99/Copipette/issues"
+  },
+  "homepage": "https://github.com/yjhan99/Copipette#readme"
 }
